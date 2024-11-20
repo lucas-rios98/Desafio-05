@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+  }
+body {
+    background-color: #faf4ea;
+    font-family: Verdana, Arial, sans-serif;
+}
+img{
+    width: 100%;
+}
+p{
+    color: #614433;
+    font-size: 15px;
+  }
+a{
+    color: #ed862b;
+}
+
+h1{ color: #6c3f26;
+}
+h2{
+    font-size: 20px;
+   background-color: #614433;;
+    color: #faf4ea;
+}
+ul>li , ol>li{
+    color: #614433;
+    font-size: 15px;
+}
+
+.links-principales{
+    margin-top: 0;
+}
+.camping{
+    font-weight: bold;
+}
+.subtitulo-h2{
+    color: #ebb912;
+}
+.la-nacion{
+    color: #10abfe;;
+}
+.pagina-12{
+    color: #ff4b3e;
+}
+footer{
+    background-color: #111;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    color: #ebb912;
+  }
